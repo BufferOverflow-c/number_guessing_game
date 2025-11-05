@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/number_guessing_game/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/number_guessing_game/src/include -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/number_guessing_game.dir/src/main.cpp.o -c /Users/c2/Documents/PersonalProjects/number_guessing_game/src/main.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/number_guessing_game/src/main.cpp",
+  "output": "CMakeFiles/number_guessing_game.dir/src/main.cpp.o"
+}
+]

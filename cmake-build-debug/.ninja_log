@@ -1,0 +1,7 @@
+# ninja log v6
+1	10	1762343127655244029	/Users/c2/Documents/PersonalProjects/number_guessing_game/cmake-build-debug/CMakeFiles/cmake.verify_globs	168346796cdaff51
+12	749	1762343127666780199	CMakeFiles/number_guessing_game.dir/src/main.cpp.o	339827d32688e707
+749	871	1762343128403653370	number_guessing_game	98481c8924156717
+1	9	1762343160529589289	/Users/c2/Documents/PersonalProjects/number_guessing_game/cmake-build-debug/CMakeFiles/cmake.verify_globs	168346796cdaff51
+11	502	1762343160539457566	CMakeFiles/number_guessing_game.dir/src/main.cpp.o	339827d32688e707
+502	539	1762343161030323287	number_guessing_game	98481c8924156717
