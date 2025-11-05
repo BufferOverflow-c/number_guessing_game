@@ -14,7 +14,3 @@ add_executable(${CMAKE_PROJECT_NAME} ${MY_SOURCES})
 target_include_directories(${CMAKE_PROJECT_NAME} PUBLIC
     "${CMAKE_CURRENT_SOURCE_DIR}/src/include"
 )
-
-target_link_libraries(${CMAKE_PROJECT_NAME} PRIVATE
-    nlohmann_json::nlohmann_json
-)
