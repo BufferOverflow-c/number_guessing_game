@@ -2,6 +2,8 @@
 
 A simple command-line number guessing game to test your luck and logic.
 
+https://roadmap.sh/projects/number-guessing-game
+
 ## Overview
 
 In this project, you'll build a CLI-based number guessing game where the computer randomly selects a number, and the player tries to guess it within a limited number of attempts.
